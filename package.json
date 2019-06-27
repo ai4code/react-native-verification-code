@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "react-native-linear-gradient": "^2.5.4"
+    "react-native-linear-gradient": "^2.5.4",
+    "prop-types": "^15.6.0"
   }, 
   "keywords": [
     "react-native",
