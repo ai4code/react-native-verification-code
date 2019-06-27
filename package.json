@@ -1,0 +1,19 @@
+{
+  "name": "react-native-verification-code",
+  "version": "1.0.1",
+  "description": "react-native图形验证码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react-native-linear-gradient": "^2.5.4"
+  }, 
+  "keywords": [
+    "react-native",
+    "verification",
+    "code"
+  ],
+  "author": "ai4code",
+  "license": "ISC"
+}
