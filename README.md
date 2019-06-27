@@ -21,4 +21,4 @@ import VerificationCode from 'react-native-verification-code';
 
 ### example截图
 
-![avatar](https://github.com/ai4code/react-native-verification-code/blob/master/image/exp.jpg)
+![avatar](https://github.com/ai4code/react-native-verification-code/blob/master/image/exp.jpg =200x300)
