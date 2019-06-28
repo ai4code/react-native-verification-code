@@ -3,6 +3,8 @@
 >主要依赖库 [react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient)具体原生相关操作请参考以上网址.
 ### start
 
+> npm install react-native-verification-code
+
 ```jsx
 import VerificationCode from 'react-native-verification-code';
 ```
